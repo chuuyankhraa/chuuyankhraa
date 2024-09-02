@@ -1,6 +1,7 @@
 ## hello dear 👋
 
 My name is Kholiqa Silmia Agasta, u can call me Liqa. 
+I was born in Medan City on Thursday, August 3, 2006.
 
 - 🔭 I’m currently studying in the geophysics study program at Gadjah Mada University.
 - 🌱 I’m currently learning computational methods in geophysics study program
